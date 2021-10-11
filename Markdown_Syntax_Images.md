@@ -1,6 +1,6 @@
 # Markdown Syntax Images
 
-[Daring Fireball: Markdown Syntax Images](https://daringfireball.net/projects/markdown/syntax#img)
+See [Daring Fireball: Markdown Syntax Images Documents](https://daringfireball.net/projects/markdown/syntax#img) .
 
 Admittedly, it’s fairly difficult to devise a “natural” syntax for placing images into a plain text document format.
 
