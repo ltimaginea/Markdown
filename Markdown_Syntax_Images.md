@@ -8,7 +8,7 @@ Markdown uses an image syntax that is intended to resemble the syntax for links,
 
 Inline image syntax looks like this:
 
-```
+```markdown
 ![Alt text](/path/to/img.jpg)
 
 ![Alt text](/path/to/img.jpg "Optional title")
@@ -22,14 +22,15 @@ That is:
 
 Reference-style image syntax looks like this:
 
-```
+```markdown
 ![Alt text][id]
 ```
 
 Where “id” is the name of a defined image reference. Image references are defined using syntax identical to link references:
 
-```
+```markdown
 [id]: url/to/image  "Optional title attribute"
 ```
 
 As of this writing, Markdown has no syntax for specifying the dimensions of an image; if this is important to you, you can simply use regular HTML `<img>` tags.
+
