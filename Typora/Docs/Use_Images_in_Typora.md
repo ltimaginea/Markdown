@@ -3,7 +3,7 @@
 In markdown, image is written like `![alt](src)`. The `src` here can either be a URL like `https://octodex.github.com/images/yaktocat.png`, or an absolute/relative file path, like `../images/test.png`. 
 
 * Outline
-{:toc}
+{:TOC}
 
 
 
@@ -17,7 +17,7 @@ You could simply write down the markdown syntax to insert the image. Or click "i
 
 Of course, there's a easier way — drag & drop, like the screencast below. 
 
-![drag-img](/img/drag-img.gif)
+![drag-img](./img/drag-img.gif)
 
 You could also drag & drop multiple image files at one time.
 
