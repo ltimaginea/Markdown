@@ -3,6 +3,8 @@
 ## Markdown Reference
 
 * [Markdown Reference](Markdown_Reference.md)
+* [Basic writing and formatting syntax - Markdown - GitHub Docs](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+* [Working with advanced formatting - Markdown - GitHub Docs](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting)
 * [Markdown Reference (typora.io)](https://support.typora.io/Markdown-Reference/)
 * [Images in Typora](https://support.typora.io/Images/)
 * [Typora Support - Typora Support](https://support.typora.io/)
@@ -10,7 +12,7 @@
 * [CommonMark Spec](https://spec.commonmark.org/0.30/)
 * [Daring Fireball: Markdown Syntax Documentation](https://daringfireball.net/projects/markdown/syntax)
 * [Markdown Syntax Images](Markdown_Syntax_Images.md)
-* [Markdown 语法](https://www.ituring.com.cn/article/775)
+* [Markdown_Comment_BackslashEscapes.md](./Markdown_Comment_BackslashEscapes.md)
 
 
 
