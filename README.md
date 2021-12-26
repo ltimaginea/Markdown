@@ -6,7 +6,7 @@
 * [Basic writing and formatting syntax - Markdown - GitHub Docs](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 * [Working with advanced formatting - Markdown - GitHub Docs](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting)
 * [Writing on GitHub - GitHub Docs](https://docs.github.com/en/github/writing-on-github)
-* [GitHub Flavored Markdown - GitHub Docs](https://docs.github.com/en/get-started/quickstart/github-glossary#github-flavored-markdown)
+* [GitHub Flavored Markdown](https://github.github.com/gfm/)
 * [Markdown Reference (typora.io)](https://support.typora.io/Markdown-Reference/)
 * [Images in Typora](https://support.typora.io/Images/)
 * [Typora Support - Typora Support](https://support.typora.io/)
